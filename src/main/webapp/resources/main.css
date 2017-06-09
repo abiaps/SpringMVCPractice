@@ -1,0 +1,12 @@
+Table.GridOne {
+    padding: 3px;
+    margin: 0;
+    background: lightyellow;
+    border-collapse: collapse;
+    width:35%;
+}
+Table.GridOne Td {
+    padding:2px;
+    border: 1px solid #ff9900;
+    border-collapse: collapse;
+}
